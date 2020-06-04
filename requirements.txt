@@ -8,6 +8,7 @@ chardet==3.0.4
 dj-database-url==0.5.0
 Django==3.0.7
 django-bootstrap4==2.0.1
+django-heroku==0.3.1
 gast==0.2.2
 google-auth==1.16.0
 google-auth-oauthlib==0.4.1
@@ -24,6 +25,7 @@ numpy==1.18.4
 oauthlib==3.1.0
 opt-einsum==3.2.1
 Pillow==7.1.2
+pkg-resources==0.0.0
 protobuf==3.12.2
 psycopg2==2.8.5
 pyasn1==0.4.8
